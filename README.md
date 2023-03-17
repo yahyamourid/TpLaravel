@@ -16,7 +16,8 @@ php artisan migrate
 
 1. Démarrez le serveur MySQL avec l'application XAMPP.
 2. Ouvrez le terminal dans le dossier de votre projet.
-3. Lancez le serveur de l'application en saisissant ```php 
+3. Lancez le serveur de l'application en saisissant
+ ```php 
 php artisan serve
 ```
 4. Ouvrez votre navigateur .
