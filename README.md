@@ -7,7 +7,7 @@
 ## Exécution des migrations
 
 Pour créer les tables de la base de données, exécutez la commande suivante dans le terminal de votre projet :
-```php php artisan migrate```
+<p>```php php artisan migrate </p>
 
 ## Lancement de l'application
 
